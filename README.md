@@ -34,3 +34,5 @@ Stack I usually work with:
 [![My skills](https://skillicons.dev/icons?i=flutter,dart,python,django,ts,react,tauri,matlab,arduino,docker,postgres)](https://skillicons.dev)
 
 Contact: [kaue.martins124@gmail.com](mailto:kaue.martins124@gmail.com)
+
+*PS — most of my repos are private under NDA :(*
