@@ -8,16 +8,14 @@
 </div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/UEA-B.Eng.-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UEA-Eng.-2E7D32?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/ITA-M.Sc.-0A2540?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Samsung_Ocean-Scholar-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/Samsung_Ocean-Scholar-1428A0?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Foxconn-VitalEye-B71C1C?style=for-the-badge"/>
 </p>
-
-<p align="center"><a href="mailto:kaue.martins124@gmail.com">kaue.martins124@gmail.com</a></p>
 
 I graduated in Control and Automation Engineering from UEA and I'm currently doing my master's in Electronics and Computer Engineering at ITA. I enjoy moving between application development (mobile, web, backend) and the lower-level side — embedded systems, mathematical modeling, and system dynamics.
 
@@ -34,3 +32,5 @@ I've also been working on:
 Stack I usually work with:
 
 [![My skills](https://skillicons.dev/icons?i=flutter,dart,python,django,ts,react,tauri,matlab,arduino,docker,postgres)](https://skillicons.dev)
+
+Contact: [kaue.martins124@gmail.com](mailto:kaue.martins124@gmail.com)
