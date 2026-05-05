@@ -1,13 +1,13 @@
-Desenvolvedor full-stack. Graduei em Engenharia de Controle e Automação pela UEA e hoje faço mestrado em Computação e Eletrônica no ITA. Gosto de transitar entre o desenvolvimento de aplicações (mobile, web, backend) e a parte mais low-level, com sistemas embarcados, modelagem matemática e dinâmica de sistemas.
+Full-stack developer. I graduated in Control and Automation Engineering from UEA and I'm currently doing my master's in Electronics and Computer Engineering at ITA. I enjoy moving between application development (mobile, web, backend) and the lower-level side — embedded systems, mathematical modeling, and system dynamics.
 
-No mestrado, tenho me dedicado ao controle e simulação de aeronaves de pequeno porte. Meu projeto principal é o **PIPER-1-6**: uma modelagem 6-DOF não linear de um Piper J-3 Cub em escala 1/6, feita em MATLAB/Simulink, onde implementei desde a trimagem do voo até as malhas PID de controle e um sistema de guiagem por waypoints. Pra sair do papel, integrei tudo com o X-Plane via UDP e levei o controlador pro hardware num ESP32, fechando o loop com Hardware-in-the-Loop.
+For my master's, I've been focused on the control and simulation of small aircraft. My main project is **PIPER-1-6**: a non-linear 6-DOF model of a 1/6-scale Piper J-3 Cub, built in MATLAB/Simulink, where I implemented everything from flight trim to PID control loops and a waypoint guidance system. To take it from simulation to real hardware, I integrated it with X-Plane over UDP and deployed the controller to an ESP32, closing the loop with Hardware-in-the-Loop testing.
 
-Em paralelo, tenho tocado:
+In parallel, I've been working on:
 
-- **[Pt_crIAtor](https://github.com/GRAEST/Pt_crIAtor)** — Geração assistida por IA de planos de trabalho para projetos de P&D enquadrados na Lei de Informática, desenvolvido em parceria com escritórios jurídicos especialistas no tema.
-- **[ApoIA](https://github.com/marcus-exe/apoIA.dev)** — Plataforma de aprendizado com IA. Backend Django + DRF (PostgreSQL, MinIO), app Flutter com Riverpod/Hive e desktop/web em Tauri + React. Geração de atividades via Gemini e simulados do ENEM.
-- **[manaus-luz](https://github.com/HKC-Desenvolvimento-de-Software/manaus-luz)** — Plataforma para a concessionária de energia de Manaus mapear, ponto a ponto, problemas em qualquer poste da cidade.
+- **[Pt_crIAtor](https://github.com/GRAEST/Pt_crIAtor)** — AI-assisted generator of work plans for R&D projects under Brazil's *Lei de Informática* (IT Law), built in partnership with law firms specialized in the topic.
+- **[ApoIA](https://github.com/marcus-exe/apoIA.dev)** — AI-powered learning platform. Django + DRF backend (PostgreSQL, MinIO), Flutter app with Riverpod/Hive, and desktop/web with Tauri + React. Activity generation via Gemini and ENEM mock exams.
+- **[manaus-luz](https://github.com/HKC-Desenvolvimento-de-Software/manaus-luz)** — Platform for Manaus's power utility company to pinpoint and map issues on any utility pole across the city.
 
-Stack que costumo usar: `Dart/Flutter` · `Python/Django` · `TypeScript/React` · `Tauri` · `MATLAB/Simulink` · `C++/Arduino` · `Docker` · `PostgreSQL`.
+Stack I usually work with: `Dart/Flutter` · `Python/Django` · `TypeScript/React` · `Tauri` · `MATLAB/Simulink` · `C++/Arduino` · `Docker` · `PostgreSQL`.
 
-Contato: [kaue.martins124@gmail.com](mailto:kaue.martins124@gmail.com)
+Contact: [kaue.martins124@gmail.com](mailto:kaue.martins124@gmail.com)
