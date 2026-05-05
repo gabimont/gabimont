@@ -4,9 +4,18 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=58A6FF&width=320&height=40&center=true&vCenter=true&lines=Kau%C3%AA+Martins;Full-stack+developer;M.Sc.+student+%40+ITA;Aircraft+control+%26+simulation;Medical+imaging+AI" alt="Roles"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=58A6FF&width=320&height=40&center=true&vCenter=true&lines=UEA+-+B.Eng.;ITA+-+M.Sc.;Samsung+Ocean+-+Scholar;Foxconn+-+VitalEye" alt="Institutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=58A6FF&width=550&height=80&center=true&vCenter=true&multiline=true&repeat=false&lines=Kau%C3%AA+Martins;Full-stack+developer+%E2%80%A2+M.Sc.+%40+ITA" alt="Header"/>
 </div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/UEA-B.Eng.-2E7D32?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ITA-M.Sc.-0A2540?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Samsung_Ocean-Scholar-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Foxconn-VitalEye-B71C1C?style=for-the-badge"/>
+</p>
 
 <p align="center"><a href="mailto:kaue.martins124@gmail.com">kaue.martins124@gmail.com</a></p>
 
@@ -14,7 +23,7 @@ I graduated in Control and Automation Engineering from UEA and I'm currently doi
 
 For my master's, I've been focused on the control and simulation of small aircraft. My main project is **PIPER-1-6**: a non-linear 6-DOF model of a 1/6-scale Piper J-3 Cub, built in MATLAB/Simulink, where I implemented everything from flight trim to PID control loops and a waypoint guidance system. To take it from simulation to real hardware, I integrated it with X-Plane over UDP and deployed the controller to an ESP32, closing the loop with Hardware-in-the-Loop testing.
 
-Alongside the academic work, my biggest current focus is **VitalEye** — an effort to build a regional retinal-image database for the Brazilian state of Amazonas. We've collected over 5,000 images across schools, universities, geriatric centers, hospitals, ophthalmology clinics and institutes, handling annotation in-house and training segmentation models (YOLO and U-Net) on dedicated GPU servers to identify retinal abnormalities. I'm also building the Flutter mobile app that handles patient management and runs the AI inference on captured retinographies.
+Alongside the academic work, my biggest current focus is **VitalEye** — an effort to build a regional retinal-image database for the Brazilian state of Amazonas. We've collected over 5,000 images across schools, universities, geriatric centers, hospitals, ophthalmology clinics and institutes; the annotation is done by leading Brazilian ophthalmologists, and the labeled data feeds segmentation models (YOLO and U-Net) trained on dedicated GPU servers to identify retinal abnormalities. I'm also building the Flutter mobile app that handles patient management and runs the AI inference on captured retinographies.
 
 I've also been working on:
 
