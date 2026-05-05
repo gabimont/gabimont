@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/MMquV2oInK40V86Q7g/giphy.gif" width="280" align="right"/>
+<img src="assets/header.gif" width="280" align="right"/>
 
 Full-stack developer. I graduated in Control and Automation Engineering from UEA and I'm currently doing my master's in Electronics and Computer Engineering at ITA. I enjoy moving between application development (mobile, web, backend) and the lower-level side — embedded systems, mathematical modeling, and system dynamics.
 
