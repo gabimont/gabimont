@@ -1,15 +1,14 @@
-<table>
+<table width="100%">
 <tr>
-<td width="35%" align="left" valign="middle">
+<td width="33%" align="left" valign="middle">
 <b>Kauê Martins</b><br>
-Full-stack developer<br>
-M.Sc. student @ ITA
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&width=320&height=30&lines=Full-stack+developer;M.Sc.+student+%40+ITA;Aircraft+control+%26+simulation;Embedded+%26+system+dynamics" alt="Roles"/>
 </td>
-<td width="30%" align="center">
+<td width="34%" align="center">
 <img src="assets/header.gif" width="240"/>
 </td>
-<td width="35%" align="right" valign="middle">
-Brazil-based<br>
+<td width="33%" align="right" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&width=320&height=30&lines=Currently+building...;PIPER-1-6;ApoIA;Pt_crIAtor;manaus-luz" alt="Currently building"/><br>
 <a href="mailto:kaue.martins124@gmail.com">kaue.martins124@gmail.com</a>
 </td>
 </tr>
