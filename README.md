@@ -1,6 +1,21 @@
-<img src="assets/header.gif" width="280" align="right"/>
+<table>
+<tr>
+<td width="35%" align="left" valign="middle">
+<b>Kauê Martins</b><br>
+Full-stack developer<br>
+M.Sc. student @ ITA
+</td>
+<td width="30%" align="center">
+<img src="assets/header.gif" width="240"/>
+</td>
+<td width="35%" align="right" valign="middle">
+Brazil-based<br>
+<a href="mailto:kaue.martins124@gmail.com">kaue.martins124@gmail.com</a>
+</td>
+</tr>
+</table>
 
-Full-stack developer. I graduated in Control and Automation Engineering from UEA and I'm currently doing my master's in Electronics and Computer Engineering at ITA. I enjoy moving between application development (mobile, web, backend) and the lower-level side — embedded systems, mathematical modeling, and system dynamics.
+I graduated in Control and Automation Engineering from UEA and I'm currently doing my master's in Electronics and Computer Engineering at ITA. I enjoy moving between application development (mobile, web, backend) and the lower-level side — embedded systems, mathematical modeling, and system dynamics.
 
 For my master's, I've been focused on the control and simulation of small aircraft. My main project is **PIPER-1-6**: a non-linear 6-DOF model of a 1/6-scale Piper J-3 Cub, built in MATLAB/Simulink, where I implemented everything from flight trim to PID control loops and a waypoint guidance system. To take it from simulation to real hardware, I integrated it with X-Plane over UDP and deployed the controller to an ESP32, closing the loop with Hardware-in-the-Loop testing.
 
@@ -13,5 +28,3 @@ In parallel, I've been working on:
 Stack I usually work with:
 
 [![My skills](https://skillicons.dev/icons?i=flutter,dart,python,django,ts,react,tauri,matlab,arduino,docker,postgres)](https://skillicons.dev)
-
-Contact: [kaue.martins124@gmail.com](mailto:kaue.martins124@gmail.com)
