@@ -1,7 +1,11 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=58A6FF&width=320&height=170&center=true&vCenter=true&lines=Kau%C3%AA+Martins;Full-stack+developer;M.Sc.+student+%40+ITA;Aircraft+control+%26+simulation;Medical+imaging+AI" alt="Roles"/>
-<img src="assets/header.gif" width="240" height="172"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=58A6FF&width=320&height=170&center=true&vCenter=true&lines=Currently+building...;VitalEye;PIPER-1-6;ApoIA;Pt_crIAtor;manaus-luz" alt="Currently building"/>
+<img src="assets/header.gif" width="240"/>
+<img src="assets/header2.gif" width="240"/>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=58A6FF&width=320&height=40&center=true&vCenter=true&lines=Kau%C3%AA+Martins;Full-stack+developer;M.Sc.+student+%40+ITA;Aircraft+control+%26+simulation;Medical+imaging+AI" alt="Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=58A6FF&width=320&height=40&center=true&vCenter=true&lines=UEA+-+B.Eng.;ITA+-+M.Sc.;Samsung+Ocean+-+Scholar;Foxconn+-+VitalEye" alt="Institutions"/>
 </div>
 
 <p align="center"><a href="mailto:kaue.martins124@gmail.com">kaue.martins124@gmail.com</a></p>
